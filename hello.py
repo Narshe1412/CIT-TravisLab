@@ -1,1 +1,1 @@
-print("Hello world!")
+print("####\n#### This is a test automation script for my old program boggle\n####")
